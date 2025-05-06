@@ -1,0 +1,26 @@
+{
+  "name": "express-user-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "start": "node server.js",
+    "test": "mocha",
+    "cypress:open": "cypress open"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.9.1",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.2.2",
+    "sinon": "^20.0.0",
+    "supertest": "^7.1.0"
+  }
+}

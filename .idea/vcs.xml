@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/express-frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/express-user-api/spring-boot-frontend" vcs="Git" />
+  </component>
+</project>
